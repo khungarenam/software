@@ -15,6 +15,7 @@ from ase.build import surface
 import numpy as np
 
 #comment in branch number_two
+#adding a second comment
 
 geo_files = ['geometry_1_layer_fixed.in', 'geometry_2_layer_fixed.in', 'geometry_3_layer_fixed.in']
 
