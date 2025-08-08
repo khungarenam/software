@@ -12,7 +12,7 @@ from ase.build import surface
 import numpy as np
 from ase.io import read
 from ase.build import surface
-
+import numpy as np
 
 geo_files = ['geometry_1_layer_fixed.in', 'geometry_2_layer_fixed.in', 'geometry_3_layer_fixed.in']
 
